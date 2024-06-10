@@ -1,0 +1,12 @@
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\bin\Debug\net7.0-windows\AppUsgph.Core.deps.json
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\bin\Debug\net7.0-windows\AppUsgph.Core.dll
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\bin\Debug\net7.0-windows\AppUsgph.Core.pdb
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.AssemblyInfoInputs.cache
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.AssemblyInfo.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.csproj.CoreCompileInputs.cache
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.sourcelink.json
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.dll
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\refint\AppUsgph.Core.dll
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\AppUsgph.Core.pdb
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Core\obj\Debug\net7.0-windows\ref\AppUsgph.Core.dll

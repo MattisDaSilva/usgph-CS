@@ -1,0 +1,8 @@
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\AppUsgph.Wpf.csproj.AssemblyReference.cache
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\Views\LoginView.g.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\Views\MainView.g.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\App.g.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\AppUsgph.Wpf_MarkupCompile.cache
+C:\Users\evann\OneDrive\Desktop\AppUsgph\AppUsgph.Wpf\obj\Release\net7.0-windows\AppUsgph.Wpf_MarkupCompile.lref
